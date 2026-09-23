@@ -1,0 +1,17 @@
+Fuel_Type,Fuel_Price_per_Litre,Distance_km,Fuel_Consumption_L_per_100km
+Petrol,96,120,7.8
+Petrol,98,150,8.0
+Petrol,100,180,8.2
+Petrol,102,210,8.4
+Petrol,104,240,8.6
+Petrol,106,270,8.8
+Petrol,108,300,9.0
+Petrol,110,330,9.2
+Diesel,90,120,6.2
+Diesel,92,150,6.4
+Diesel,94,180,6.5
+Diesel,96,210,6.7
+Diesel,98,240,6.9
+Diesel,100,270,7.1
+Diesel,102,300,7.3
+Diesel,104,330,7.5
